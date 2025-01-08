@@ -1,1 +1,2 @@
 # Image-Labelling
+This project is a tool for image annotation. It allows you to highlight areas on photos (polygons, rectangles), for example, to mark objects, and associate them with specific categories. You can customize annotation colors, edit shapes, adjust image scaling, and save the results in local storage. It's built with JavaScript (Vue.js) and works directly in the browser. Perfect for those preparing datasets for neural networks or image analysis.
